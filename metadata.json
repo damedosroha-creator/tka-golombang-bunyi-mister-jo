@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS – TKA GELOMBANG BUNYI",
+  "description": "Aplikasi pembelajaran dan latihan TKA Fisika SMA materi Gelombang Bunyi bersama Mister Jo dengan 30 soal HOTS, stimulus kaya, rumus KaTeX, pembahasan sistematis, cara cepat, dan narasi audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
